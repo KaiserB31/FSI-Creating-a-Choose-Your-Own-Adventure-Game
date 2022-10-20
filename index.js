@@ -1,1 +1,1 @@
-window.prompt('Do you head left or right?')
+let answer = window.promopt('Do you head left or right?')
