@@ -5,7 +5,7 @@ console.log(firstAnswer)
 {let firstAnswer  = window.prompt('Do you head left or right?')
 console.log(firstAnswer === 'left')
 }
-{let firstAnswer  = window.prompt('Do you head left or right?')
+let firstAnswer  = window.prompt('Do you head left or right?')
 if(firstAnswer === 'left'){
     let secondAnswer = window.prompt(`You come across a stray cat. 
 It scampers off down a small hole, just large enough for you to crawl through. 
